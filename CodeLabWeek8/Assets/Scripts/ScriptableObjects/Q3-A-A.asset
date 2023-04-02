@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9b749e1f023c479be26732c0c1e8b, type: 3}
+  m_Name: Q3-A-A
+  m_EditorClassIdentifier: 
+  question: What kind of weapon do they use?
+  image: {fileID: 21300000, guid: 60aad0888673e55438ccda8c46c101ca, type: 3}
+  choiceA: {fileID: 11400000, guid: 248dbef945d632f4eb4db4a6c82decdc, type: 2}
+  choiceB: {fileID: 11400000, guid: 4059bfac93f7283499027bcf77c845d6, type: 2}
+  backward: {fileID: 11400000, guid: c9ac020cc540f424d8af11ccdcf9832e, type: 2}
+  choiceAText: Sword
+  choiceBText: Whip

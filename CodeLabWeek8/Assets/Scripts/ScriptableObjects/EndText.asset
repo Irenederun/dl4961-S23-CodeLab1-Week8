@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9b749e1f023c479be26732c0c1e8b, type: 3}
+  m_Name: EndText
+  m_EditorClassIdentifier: 
+  question: Stay Tuned for the release date of chapter II!
+  image: {fileID: 21300000, guid: fe23fa662e0d7204583da7cee8d1c51e, type: 3}
+  choiceA: {fileID: 11400000, guid: b12c750ac5c70cf4e925d71b9642fe83, type: 2}
+  choiceB: {fileID: 0}
+  backward: {fileID: 11400000, guid: 91b2c8afa1577e04d87a6618a8f721b1, type: 2}
+  choiceAText: Restart
+  choiceBText: 

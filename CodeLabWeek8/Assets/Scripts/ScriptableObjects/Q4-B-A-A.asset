@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9b749e1f023c479be26732c0c1e8b, type: 3}
+  m_Name: Q4-B-A-A
+  m_EditorClassIdentifier: 
+  question: All set! Ready to go?
+  image: {fileID: 21300000, guid: abb12a2bcb1a0a447b9478675f5490b8, type: 3}
+  choiceA: {fileID: 11400000, guid: 56b8b6d6f820ab94b93be54cc75e8486, type: 2}
+  choiceB: {fileID: 11400000, guid: 0c248454791ffb64b8df9483b9ecdf3f, type: 2}
+  backward: {fileID: 11400000, guid: 660adf5da0d9f4f4eb29f5d3c6c0ae9b, type: 2}
+  choiceAText: Yes
+  choiceBText: Wait, no...
