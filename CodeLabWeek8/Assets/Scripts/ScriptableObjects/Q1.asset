@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9b749e1f023c479be26732c0c1e8b, type: 3}
+  m_Name: Q1
+  m_EditorClassIdentifier: 
+  question: Which color does your character like?
+  image: {fileID: 21300000, guid: 1790f951b34618949950894d7a80946c, type: 3}
+  choiceA: {fileID: 11400000, guid: c9ac020cc540f424d8af11ccdcf9832e, type: 2}
+  choiceB: {fileID: 11400000, guid: 2739b34e9de588a45a2f8ebc277e76b9, type: 2}
+  backward: {fileID: 11400000, guid: b12c750ac5c70cf4e925d71b9642fe83, type: 2}
+  choiceAText: Pink
+  choiceBText: Blue
